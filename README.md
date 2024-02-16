@@ -10,4 +10,12 @@
 
 ## ESTADO
 
-- En desarrollo las funcionalidades.
+En desarrollo las funcionalidades. Estoy trabajando y practicando con:
+- Gestores de estado
+- Mappers
+- Peticiones HTTP
+- Dio
+- Paquetes
+- Funciones que retornan valores como callbacks
+- Scroll
+- Provider
