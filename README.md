@@ -1,16 +1,13 @@
-# yes_no_app
+# Yes or Not App
 
-A new Flutter project.
+¡Bienvenido a Yes or Not App! Este es un proyecto de Flutter que te permite realizar preguntas y obtener respuestas en forma de GIFs animados acompañados de un simple "Sí" o "No" desde una API.
 
-## Getting Started
+## Funcionalidades
 
-This project is a starting point for a Flutter application.
+- Realiza preguntas y obtén respuestas divertidas en forma de GIFs.
+- Interfaz simple y fácil de usar.
+- Utiliza componentes como Columnas, TextFormField, Imágenes y MediaQuery.
 
-A few resources to get you started if this is your first Flutter project:
+## ESTADO
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- En desarrollo las funcionalidades.
