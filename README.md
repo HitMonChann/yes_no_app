@@ -1,4 +1,6 @@
-![Simulator Screenshot - iPhone 15 - 2024-02-20 at 12 54 21](https://github.com/HitMonChann/yes_no_app/assets/37000524/dc143a2b-da2d-40f0-99b7-690f7c29e480)# Yes or Not App
+<img width="493" alt="Captura de pantalla 2024-02-20 a las 13 00 21" src="https://github.com/HitMonChann/yes_no_app/assets/37000524/d9b3e526-e085-4c20-b757-cbfcf31ad7a4">
+
+# Yes or Not App
 
 ¡Bienvenido a Yes or Not App! Este es un proyecto de Flutter que te permite realizar preguntas y obtener respuestas en forma de GIFs animados acompañados de un simple "Sí" o "No" desde una API.
 
